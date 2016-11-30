@@ -1,3 +1,4 @@
 /vendor
+/downloads
 composer.lock
 docker-compose.yml

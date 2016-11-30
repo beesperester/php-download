@@ -1,0 +1,9 @@
+{
+    "name": "beesperester/php-download",
+    "autoload": {
+        "psr-4" : {
+            "tests\\": "tests/",
+            "Beesperester\\Chunky\\" : "src/Beesperester/Chunky"
+        }
+    }
+}
